@@ -1,6 +1,6 @@
 # LSTM Stock Prediction with News Sentiment
 
-This project explores the use of LSTM (Long Short-Term Memory) neural networks to predict stock prices based on historical stock data and sentiment analysis of financial news headlines. The aim is to improve predictive performance by incorporating external sentiment signals in addition to traditional technical indicators.
+This project explores the use of LSTM (Long Short-Term Memory) neural networks to predict stock prices based on historical stock data and sentiment analysis of financial news headlines from business insider. The aim is to improve predictive performance by incorporating external sentiment signals in addition to traditional technical indicators.
 
 ## Data Sources
 
